@@ -44,3 +44,7 @@ To run Django's test suite:
       docs/internals/contributing.txt, published online at
       http://docs.djangoproject.com/en/dev/internals/contributing/#running-the-unit-tests
 
+------
+This is a test change for detracify
+
+We will be pushing patches from pull requests on github.com/django/django to trac.
